@@ -7,6 +7,7 @@ public class LacosEncadeados {
 				System.out.println(multiplicador * contador);
 				System.out.println(" ");
 			}
+			System.out.println(" ");
 		}
 	
 	}
